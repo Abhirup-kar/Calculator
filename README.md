@@ -39,9 +39,7 @@ python main.py
 | `Backspace` | Delete last character |
 | `Esc` | Clear the display |
 
-## Screenshots
 
-![Scientific Calculator](screenshot.png)
 
 ## License
 
